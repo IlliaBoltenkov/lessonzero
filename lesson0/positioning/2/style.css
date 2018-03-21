@@ -1,0 +1,37 @@
+.green{
+    position: relative;
+    height: 400px;
+    width: 400px;
+    background-color:  green;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.orange{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color:  orange;
+}
+.top{
+    left: 50%;
+    margin-left: -50px;
+    margin-top: -50px;
+}
+.right{
+    right: 0;
+    top: 50%;
+    margin-right: -50px; 
+    margin-top: -50px;
+}
+.bottom{
+    bottom: 0;
+    left: 50%;
+    margin-left: -50px;
+    margin-bottom: -50px;
+}
+.left{
+    top: 50%;
+    margin-left: -50px;
+    margin-top: -50px;
+    
+}

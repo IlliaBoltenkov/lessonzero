@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    background-color: red;
+    padding: 20px;
+    padding-bottom: 0;
+}
+.board-left{
+    height: 80px;
+    width: 15%;
+    background-color: black;
+    float: left;
+}
+.board-right{
+    height:80px;
+    width: 60%;
+    background-color: black;
+    float: right;
+    
+}
+.board1{
+    width: 20%;
+    height:600px;
+    float: left;
+    background-color: aqua;
+}
+
+.board2{
+    width: 80%;
+    height: 600px;
+    float: left;
+    background-color: black;
+}
+.cell{
+    float: left;
+    height: 100px;
+    width: 30%;
+    background-color: aqua;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.footer{
+    height: 100px;
+    background-color: red;
+    clear: both;
+}

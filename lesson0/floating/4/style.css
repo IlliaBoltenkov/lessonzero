@@ -1,0 +1,28 @@
+
+.text1{
+    margin-right: 25px;
+}
+.line1 img{
+    float: left;
+ 
+    width: 20%;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.text2{
+    margin-right: 25px;
+    margin-left: 25px;
+    
+}
+.line2 img{
+    float: right;
+    width: 20%;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.line3 img{
+    width: 96%;
+    height: 300px;
+    margin-left: 25px;
+    margin-right: 25px;
+}

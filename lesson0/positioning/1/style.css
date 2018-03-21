@@ -1,0 +1,24 @@
+.main{
+    height: 400px;
+    position:relative;
+}
+.two-blocks{
+    float: left;
+}
+.green{
+    height: 100%;
+    width: 400px;
+    background-color: green;
+    float: left;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.orange{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+}
+.bottom{
+    position: absolute;
+    bottom: 0;
+}

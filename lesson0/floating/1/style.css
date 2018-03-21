@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    background-color: red;
+}
+.board2{
+    width: 20%;
+    height:600px;
+    float: left;
+    background-color: aqua;
+}
+.board3{
+    width: 80%;
+    height: 600px;
+    float: left;
+    background-color: black;
+}
+.footer{
+    height: 100px;
+    background-color: red;
+    clear: both;
+}
